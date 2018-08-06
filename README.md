@@ -1,2 +1,2 @@
 # ipdeny-zones
-IPdeny zone files
+IPdeny zone files from www.ipdeny.com
